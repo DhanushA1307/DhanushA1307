@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Dhanush A<br>New Stuff, New Learning; New Learning, New Innovation💪🏻👍🏻<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data Visualization, Data Analysis, and Machine Learning<br>📫 How to reach me https://www.linkedin.com/in/dhanusha1307/<br>
-
+Hi 👋, I'm Dhanush A<br>New Stuff, New Learning; New Learning, New Innovation💪🏻👍🏻<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data Visualization, Data Analysis, and Machine Learning<!--<br>📫 How to reach me https://www.linkedin.com/in/dhanusha1307/<br>
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanusha1307 ) 
