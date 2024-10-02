@@ -21,7 +21,9 @@ Hi 👋, I'm Dhanush A<br>New Stuff, New Learning; New Learning, New Innovation�
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DhanushA1307&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
+### Hacktoberfest Batch
+[![An image of @dhanusha1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanusha1307)](https://holopin.io/@dhanusha1307)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DhanushA1307&icon=2&color=10)](https://visitcount.itsvg.in)
-[![An image of @dhanusha1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanusha1307)](https://holopin.io/@dhanusha1307)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
